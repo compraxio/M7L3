@@ -1,0 +1,1 @@
+print("Prende la camara ")
